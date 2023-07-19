@@ -49,7 +49,7 @@ __________
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/swagger.png" alt="Swagger" width="50" height="50" />
 </a>
 <a href="https://xmind.app/">
-<img src="https://github.com/LemAnna/Anna_Bogdanova_QA/blob/master/%D0%98%D0%BA%D0%BE%D0%BD%D0%BA%D0%B8/Xmind.png?raw=true" alt="Localizely" width="100" height="50" />
+<img src="https://github.com/LemAnna/Anna_Bogdanova_QA/blob/master/%D0%98%D0%BA%D0%BE%D0%BD%D0%BA%D0%B8/Xmind.png?raw=true" alt="Localizely" width="50" height="50" />
 </a>
 <a href="https://dbeaver.io/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/DBeaver.png" alt="DBeaver" width="50" height="50" />
